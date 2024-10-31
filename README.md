@@ -26,7 +26,7 @@ A customizable Home Assistant header card that displays a daily greeting and ins
 2. Click "Integrations"
 3. Click the three-dot menu in the top right
 4. Select "Custom Repositories"
-5. Add repository URL: `https://github.com/yourusername/biofects-header-card`
+5. Add repository URL: `https://github.com/biofects/biofects-header-card`
 6. Choose category: "Integration"
 7. Click "Add"
 8. Search for "Biofects Header Card"
