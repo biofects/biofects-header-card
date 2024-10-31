@@ -1,14 +1,16 @@
 {
-    "domain": "biofects_header_card",
-    "name": "Biofects Header Card",
-    "version": "1.0.0",
-    "documentation": "https://github.com/biofects/biofects-header-card",
-    "requirements": [
+  "domain": "biofects_header_card",
+  "name": "Biofects Header Card",
+  "codeowners": ["@biofects"],
+  "config_flow": true,
+  "dependencies": ["frontend", "lovelace"],
+  "documentation": "https://github.com/biofects/biofects-header-card",
+  "iot_class": ""cloud_polling,
+  "issue_tracker": "https://github.com/biofects/biofects-header-card/issues",
+      "requirements": [
         "feedparser",
         "requests",
         "voluptuous"
     ],
-    "dependencies": [],
-    "codeowners": ["@biofects"],
-    "iot_class": "cloud_polling"
+  "version": "1.0.0"
 }
