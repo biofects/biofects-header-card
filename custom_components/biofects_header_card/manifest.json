@@ -1,6 +1,7 @@
 {
   "domain": "biofects_header_card",
   "name": "Biofects Header Card",
+  "bluetooth": [],
   "codeowners": ["@biofects"],
   "config_flow": true,
   "dependencies": ["frontend", "lovelace"],
