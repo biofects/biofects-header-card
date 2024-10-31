@@ -1,4 +1,4 @@
-# Biofects Header Card
+# **DO NOT USE**  Biofects Header Card
 
 A customizable Home Assistant header card that displays a daily greeting and inspirational quote.
 
