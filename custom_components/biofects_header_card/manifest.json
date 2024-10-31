@@ -1,0 +1,13 @@
+{
+    "domain": "biofects_header_card",
+    "name": "Biofects Header Card",
+    "version": "1.0.0",
+    "documentation": "https://github.com/biofects/biofects-header-card",
+    "requirements": [
+        "feedparser",
+        "requests",
+        "voluptuous"
+    ],
+    "dependencies": [],
+    "codeowners": ["@ybiofects"]
+}

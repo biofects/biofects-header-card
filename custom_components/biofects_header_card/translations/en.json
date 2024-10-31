@@ -1,0 +1,8 @@
+{
+    "component": {
+        "biofects_header_card": {
+            "name": "Biofects Header Card",
+            "description": "A header card with daily greeting and quote"
+        }
+    }
+}
