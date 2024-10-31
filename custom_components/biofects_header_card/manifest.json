@@ -9,5 +9,6 @@
         "voluptuous"
     ],
     "dependencies": [],
-    "codeowners": ["@ybiofects"]
+    "codeowners": ["@biofects"],
+    "iot_class": "cloud_polling"
 }
